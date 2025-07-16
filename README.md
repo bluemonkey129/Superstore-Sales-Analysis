@@ -35,3 +35,15 @@ profitto assoluto è notevolmente inferiore ($18.451,27) rispetto a "Office Supp
 Mobili si attesta a un misero 2,49%, drasticamente inferiore rispetto al 17,04% di 
 "Office Supplies" e al 17,40% di "Technology", indicando una chiara inefficienza nella 
 redditività di questa categoria.
+
+![Grafico Margine di Profitto per Categorie](Profit_Margin_by_Category.png)
+
+###3.2. Impatto Deleterio degli Sconti Elevati sul Margine di Profitto.###
+o L'analisi del Margine di Profitto per Livello di Sconto rivela una correlazione inversa 
+diretta e preoccupante tra l'aumento dello sconto e la redditività. Mentre l'assenza di 
+sconto (0%) garantisce il margine più alto (29,51%), già con sconti del 30% si registra 
+una perdita (-10,05%). L'applicazione di sconti superiori al 70-80% porta a perdite 
+estreme in percentuale (-98,66% al 70% e -180,03% all'80%), indicando vendite effettuate ben al di sotto del costo di prodotti.
+
+![Grafico Impatto dello Sconto sul Margine di Profitto](Discount_Impact_on_Margin_Profit.png)
+
